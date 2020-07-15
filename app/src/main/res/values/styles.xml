@@ -1,0 +1,58 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="ussd">
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">#2C2C2C</item>
+    </style>
+
+    <style name="hisob">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#2C2C2C</item>
+    </style>
+
+    <style name="paket_xarid">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">#2C2C2C</item>
+    </style>
+    <style name="balansni_te">
+
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+    <style name="megabayt_da">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#FFFFFF</item>
+
+    </style>
+    <style name="internet">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#2C2C2C</item>
+    </style>
+
+    <style name="daqiqa">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#2C2C2C</item>
+    </style>
+
+    <style name="sms">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#2C2C2C</item>
+    </style>
+    <style name="paketlar">
+        <item name="android:textSize">12sp</item>
+        <item name="android:textColor">#93949B</item>
+    </style>
+
+
+
+
+</resources>
